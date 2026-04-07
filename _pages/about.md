@@ -20,11 +20,15 @@ redirect_from:
 I am currently a Ph.D. student in the CSE department of the Hong Kong University of Science and Technology (HKUST). My advisors are [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/) and [Prof. Zhihong Li](https://ic.pku.edu.cn/szdw/zzjs/L1/lzh/index.htm). My research interests mainly include Brain-Computer Interface (BCI) and Machine Learning, aiming at building intelligent BCI systems.  
 **Currently, I am working on: 1) EEG Representation Learning (Self-Supervised Learning); 2) Evaluation of Clinical Solutions using EEG.**
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2025.12*: &nbsp;🎉 HKUST PQE Pass!
 - *2024.09*: &nbsp;🎉 HKUST New Semester Begins!
 
-# 📝 Publications (Patents)
+<span class='anchor' id='-publications'></span>
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +90,8 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2023.12*: Member, HKUST SENG-BICI Entrepreneurship PhD Program [[Link](https://kt.hkust.edu.hk/2024-hkust-seng-bici-entrepreneurship-phd-program)]
 - *2023.06*: Jingjinji National Center of Technology Innovation Excellent Graduate [[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
@@ -93,12 +99,14 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 - *2020.09*: Member, HKUST Innovation Leaders Program [[Link](https://calendar.hkust.edu.hk/events/2020-pilot-scheme-innovation-leaders-program-call-application)]
 - *2019.12*: China Unicom Big Data Scholarship
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2024.08 - Now*: Ph.D. student in Computer Science and Engineering, HKUST.
 - *2020.08 - 2023.08*: MSc in Big Data Technology, HKUST.
 - *2018.07 - 2018.08*: Summer Exchange Student, Cornell University.
 - *2016.08 - 2020.08*: BSc in Computer Science, BNU-HKBU UIC.
 
-# 💻 Work Experience
+# 💻 Internship
 - *2020.09 - 2021.01*: Machine Learning Engineer, WeBank.
 - *2019.07 - 2019.08*: Big Data Intern, China Unicom.
