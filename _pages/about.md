@@ -17,42 +17,88 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am currently a Ph.D. student in the CSE department of the Hong Kong University of Science and Technology (HKUST). My advisors are [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/) and [Prof. Zhihong Li](https://ic.pku.edu.cn/szdw/zzjs/L1/lzh/index.htm). My research interests mainly include Brain-Computer Interface (BCI) and Machine Learning, aiming at building intelligent BCI systems.  
+**Currently, I am working on: 1) EEG Representation Learning (Self-Supervised Learning); 2) Evaluation of Clinical Solutions using EEG.**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉 HKUST PQE Pass!
+- *2024.09*: &nbsp;🎉 HKUST New Semester Begins!
 
-# 📝 Publications 
+# 📝 Publications (Patents)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Exercise function recovery system and stimulation scheme determining method](https://patents.google.com/patent/CN118177838B/zh)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jianming WANG**, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*China National Intellectual Property Administration, 2024.*
+- A system for exercise function recovery and method for determining stimulation schemes.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nerve tissue transmission bioelectric signal processing method and equipment](https://patents.google.com/patent/CN118177838B/en)
+
+**Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang
+
+*China National Intellectual Property Administration, 2024.*
+- Method and equipment for processing bioelectric signals from nerve tissue transmission.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Consciousness disturbance rehabilitation-oriented wake-promoting system](https://patents.google.com/patent/CN116712672A/zh)
+
+**Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li
+
+*China National Intellectual Property Administration, 2023.*
+- A wake-promoting system for rehabilitation of consciousness disorders.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bruxism Event Detection System and Bruxism Data Processing Method](https://patents.google.com/patent/CN115844337B/zh)
+
+**Jianming WANG**, Junshi Li, Dong Huang
+
+*China National Intellectual Property Administration, 2023.*
+- System and method for detecting bruxism events and processing related data.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Method and System for Detecting Bruxism Movements](https://patents.google.com/patent/CN115813351A/zh)
+
+**Jianming WANG**, Junshi Li, Dong Huang
+
+*China National Intellectual Property Administration, 2023.*
+- Method and system specifically for detecting bruxism movements.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: Member, HKUST SENG-BICI Entrepreneurship PhD Program [[Link](https://kt.hkust.edu.hk/2024-hkust-seng-bici-entrepreneurship-phd-program)]
+- *2023.06*: Jingjinji National Center of Technology Innovation Excellent Graduate [[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
+- *2023.06*: Jingjinji National Center of Technology Innovation Cyan Innovatician [[Link](https://jingjinji.cn/xwzx/ywbb/85de11639d9e49798b1d7d56e99ca900.htm)]
+- *2020.09*: Member, HKUST Innovation Leaders Program [[Link](https://calendar.hkust.edu.hk/events/2020-pilot-scheme-innovation-leaders-program-call-application)]
+- *2019.12*: China Unicom Big Data Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - Now*: Ph.D. student in Computer Science and Engineering, HKUST.
+- *2020.08 - 2023.08*: MSc in Big Data Technology, HKUST.
+- *2018.07 - 2018.08*: Summer Exchange Student, Cornell University.
+- *2016.08 - 2020.08*: BSc in Computer Science, BNU-HKBU UIC.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2020.09 - 2021.01*: Machine Learning Engineer, WeBank.
+- *2019.07 - 2019.08*: Big Data Intern, China Unicom.
