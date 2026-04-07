@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianming Wang（王建明）"
-description              : "I am currently a Ph.D. student in CSE department of Hong Kong University of Science and Technology (HKUST). My advisors are Prof. Nevin L. Zhang and Prof. Zhihong Li. My research interests mainly include Brain Computer Interface (BCI) and Machine Learning, aiming at building intelligent BCI systems. Currently, I am working on: 1) EEG Representation Learning (Self-Supervised Learning); 2) Evaluation of Clinical Solutions using EEG."
+description              : "BCI & Machine Learning"
 repository               : "JianmingWANG1998/jianmingwang.github.io"
 google_scholar_stats_use_cdn : false
 
