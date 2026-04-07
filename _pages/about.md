@@ -26,7 +26,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 
 # 📝 Publications (Patents)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box patent-item'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exercise function recovery system and stimulation scheme determining method](https://patents.google.com/patent/CN118177838B/zh)
@@ -38,7 +38,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box patent-item'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Nerve tissue transmission bioelectric signal processing method and equipment](https://patents.google.com/patent/CN118177838B/en)
@@ -50,7 +50,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box patent-item'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consciousness disturbance rehabilitation-oriented wake-promoting system](https://patents.google.com/patent/CN116712672A/zh)
@@ -62,7 +62,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box patent-item'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bruxism Event Detection System and Bruxism Data Processing Method](https://patents.google.com/patent/CN115844337B/zh)
@@ -74,7 +74,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box patent-item'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Method and System for Detecting Bruxism Movements](https://patents.google.com/patent/CN115813351A/zh)
