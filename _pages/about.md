@@ -107,6 +107,8 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 - *2018.07 - 2018.08*: Summer Exchange Student, Cornell University.
 - *2016.08 - 2020.08*: BSc in Computer Science, BNU-HKBU UIC.
 
-# 💻 Internship
+<span class='anchor' id='-internships'></span>
+
+# 💻 Internships
 - *2020.09 - 2021.01*: Machine Learning Engineer, WeBank.
 - *2019.07 - 2019.08*: Big Data Intern, China Unicom.
