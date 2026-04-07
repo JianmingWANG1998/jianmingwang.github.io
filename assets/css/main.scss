@@ -40,6 +40,53 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// .paper-box {
+//     display: flex;
+//     justify-content: left;
+//     align-items: center;
+//     flex-direction: row;
+//     flex-wrap: wrap;
+//     border-bottom: 1px #efefef solid;
+//     padding: 2em 0 2em 0;
+    
+
+//     .paper-box-image{
+//         justify-content: center;
+//         display: flex;
+//         width: 100%;
+//         order: 2;
+//         img {
+//             max-width: 400px;
+//             box-shadow: 3px 3px 6px #888;
+//             object-fit: cover;
+//         }
+//     }
+    
+//     .paper-box-text{
+//         max-width: 100%;
+//         order: 1;
+//     }
+    
+//     @include breakpoint($medium) {
+//         .paper-box-image{
+//             justify-content: left;
+//             min-width: 200px;
+//             max-width: 40%;
+//             order: 1;
+//         }
+        
+//         .paper-box-text{
+//             justify-content: left;
+//             padding-left: 2em;
+//             max-width: 60%;
+//             order: 2;
+//         }
+
+//     }
+
+
+// }
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,43 +95,55 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            max-width: 100%;          // 新增：图片宽度不超过父容器
+            max-height: 130px;        // 新增：限制图片最大高度（适合证书截图）
+            width: auto;              // 新增：宽度自适应
+            height: auto;             // 新增：高度自适应
+            object-fit: contain;      // 新增：保持完整比例，不裁剪
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+            border-radius: 6px;       // 新增：圆角边框
+            border: 1px solid #e0e0e0; // 新增：浅灰边框
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            
+            &:hover {
+                transform: scale(1.02);
+                box-shadow: 4px 4px 12px rgba(0,0,0,0.15);
+            }
         }
     }
     
-    .paper-box-text{
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
     
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 140px;         // 修改：确保左侧区域有最小宽度（原来是200px）
+            max-width: 30%;           // 修改：限制最大宽度比例（原来是40%）
             order: 1;
+            
+            img {
+                max-height: 120px;    // 桌面端可稍小，避免过高
+            }
         }
         
-        .paper-box-text{
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 70%;           // 相应调整文字区宽度
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -97,13 +156,25 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    margin-top: 0.5em;
+    margin-left: -0.5em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: 0.8em;
+    border-radius: 20px;   // 可选：圆角胶囊
+    z-index: 2;            // 确保在图片上方
 }
