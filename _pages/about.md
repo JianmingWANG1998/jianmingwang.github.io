@@ -30,6 +30,29 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 
 # 📝 Publications
 
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <!-- 左侧图片：展示模型架构 -->
+    <td style="width:30%; vertical-align:top; border:none;">
+      <img src="images/deltagatenet_arch.png" alt="DeltaGateNet Architecture" style="width:100%; border-radius:5px;">
+    </td>
+    <!-- 右侧文字：项目描述 -->
+    <td style="width:70%; padding-left:20px; vertical-align:top; border:none;">
+      <strong>Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition</strong><br>
+      YIP Tin Po*, <strong>Jianming WANG*</strong>, Yutao Miao, Jiayan Zhang, Yunxu Zhao, Xiaomin Ouyang, Zhihong Li, Nevin L. Zhang<br>
+      <em>Arxiv 2024.</em><br>
+      <a href="https://jianmingwang1998.github.io/DeltaGateNet/">[Project]</a>
+      <ul style="margin-top:10px; font-size:0.95em;">
+        <li>Proposed <strong>DeltaGateNet</strong>, a novel framework that captures bidirectional temporal dynamics for EEG-based fatigue recognition [2].</li>
+        <li>Introduced the <strong>Bidirectional Delta module</strong> to decompose first-order temporal differences, capturing asymmetric neural activation and suppression [5].</li>
+        <li>Designed a <strong>Gated Temporal Convolution</strong> module to extract long-term temporal dependencies and enhance feature robustness [2, 6].</li>
+        <li>Achieved state-of-the-art <strong>96.84% accuracy</strong> on the SADT dataset [2].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
