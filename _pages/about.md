@@ -112,3 +112,8 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 # 💻 Internships
 - *2020.09 - 2021.01*: Machine Learning Engineer, WeBank.
 - *2019.07 - 2019.08*: Big Data Intern, China Unicom.
+
+# 👨‍🏫 Teaching Assistant
+- *2025 Fall*: **CSIT5910 & MSBD5012: Machine Learning**, *Head TA*, HKUST  
+- *2025 Spring*: **COMP 5212: Machine Learning**, *Head TA*, HKUST  
+
