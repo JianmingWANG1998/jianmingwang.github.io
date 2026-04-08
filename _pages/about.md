@@ -105,7 +105,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2023</div><img src='images/Bruxism_Event_Detection_System_and_Bruxism_Data_Processing_Method.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Method and System for Detecting Bruxism Movements](https://patents.google.com/patent/CN115813351A/zh)
