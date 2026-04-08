@@ -57,137 +57,125 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 
 ## 📜 Patents
 
-<!-- 使用 flex 布局，固定左侧图片宽度，限制高度，确保每个条目高度紧凑一致 -->
-<style>
-.patent-item {
-  display: flex;
-  margin-bottom: 30px;
-  align-items: flex-start;
-  gap: 20px;
-}
-.patent-left {
-  flex: 0 0 160px;
-  text-align: left;
-}
-.patent-left img {
-  width: 100%;
-  height: auto;
-  max-height: 120px;
-  object-fit: contain;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-.patent-badge {
-  background-color: #2c3e50;
-  color: white;
-  display: inline-block;
-  padding: 2px 10px;
-  border-radius: 20px;
-  font-size: 0.75rem;
-  margin-bottom: 8px;
-}
-.patent-right {
-  flex: 1;
-  text-align: justify;
-}
-.patent-title {
-  font-size: 1.02em;
-  font-weight: bold;
-  margin-bottom: 5px;
-}
-.patent-authors {
-  font-size: 0.92em;
-  color: #444;
-  margin-bottom: 5px;
-}
-.patent-info {
-  font-size: 0.88em;
-  color: #555;
-  font-style: italic;
-  margin-bottom: 8px;
-}
-.patent-abstract {
-  margin: 0;
-  padding-left: 20px;
-  font-size: 0.9em;
-  line-height: 1.5;
-}
-</style>
+<!-- 专利1 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2024</div>
+      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN118177838B/zh" target="_blank" style="text-decoration:none;">Exercise function recovery system and stimulation scheme determining method</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2024.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>A system for exercise function recovery and method for determining stimulation schemes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class="patent-item">
-  <div class="patent-left">
-    <div class="patent-badge">Patent 2024</div>
-    <img src="images/patent_1.png" alt="patent">
-  </div>
-  <div class="patent-right">
-    <div class="patent-title"><a href="https://patents.google.com/patent/CN118177838B/zh" target="_blank">Exercise function recovery system and stimulation scheme determining method</a></div>
-    <div class="patent-authors"><strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang</div>
-    <div class="patent-info">China National Intellectual Property Administration, 2024.</div>
-    <ul class="patent-abstract">
-      <li>A system for exercise function recovery and method for determining stimulation schemes.</li>
-    </ul>
-  </div>
-</div>
+<!-- 专利2 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2024</div>
+      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN118177838B/en" target="_blank" style="text-decoration:none;">Nerve tissue transmission bioelectric signal processing method and equipment</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2024.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>Method and equipment for processing bioelectric signals from nerve tissue transmission.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class="patent-item">
-  <div class="patent-left">
-    <div class="patent-badge">Patent 2024</div>
-    <img src="images/patent_1.png" alt="patent">
-  </div>
-  <div class="patent-right">
-    <div class="patent-title"><a href="https://patents.google.com/patent/CN118177838B/en" target="_blank">Nerve tissue transmission bioelectric signal processing method and equipment</a></div>
-    <div class="patent-authors"><strong>Jianming WANG</strong>, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang</div>
-    <div class="patent-info">China National Intellectual Property Administration, 2024.</div>
-    <ul class="patent-abstract">
-      <li>Method and equipment for processing bioelectric signals from nerve tissue transmission.</li>
-    </ul>
-  </div>
-</div>
+<!-- 专利3 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2023</div>
+      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN116712672A/zh" target="_blank" style="text-decoration:none;">Consciousness disturbance rehabilitation-oriented wake-promoting system</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2023.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>A wake-promoting system for rehabilitation of consciousness disorders.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class="patent-item">
-  <div class="patent-left">
-    <div class="patent-badge">Patent 2023</div>
-    <img src="images/patent_1.png" alt="patent">
-  </div>
-  <div class="patent-right">
-    <div class="patent-title"><a href="https://patents.google.com/patent/CN116712672A/zh" target="_blank">Consciousness disturbance rehabilitation-oriented wake-promoting system</a></div>
-    <div class="patent-authors"><strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li</div>
-    <div class="patent-info">China National Intellectual Property Administration, 2023.</div>
-    <ul class="patent-abstract">
-      <li>A wake-promoting system for rehabilitation of consciousness disorders.</li>
-    </ul>
-  </div>
-</div>
+<!-- 专利4 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2023</div>
+      <img src="images/Bruxism_Event_Detection_System_and_Bruxism_Data_Processing_Method.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN115844337B/zh" target="_blank" style="text-decoration:none;">Bruxism Event Detection System and Bruxism Data Processing Method</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Junshi Li, Dong Huang
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2023.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>System and method for detecting bruxism events and processing related data.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div class="patent-item">
-  <div class="patent-left">
-    <div class="patent-badge">Patent 2023</div>
-    <img src="images/Bruxism_Event_Detection_System_and_Bruxism_Data_Processing_Method.png" alt="patent">
-  </div>
-  <div class="patent-right">
-    <div class="patent-title"><a href="https://patents.google.com/patent/CN115844337B/zh" target="_blank">Bruxism Event Detection System and Bruxism Data Processing Method</a></div>
-    <div class="patent-authors"><strong>Jianming WANG</strong>, Junshi Li, Dong Huang</div>
-    <div class="patent-info">China National Intellectual Property Administration, 2023.</div>
-    <ul class="patent-abstract">
-      <li>System and method for detecting bruxism events and processing related data.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="patent-item">
-  <div class="patent-left">
-    <div class="patent-badge">Patent 2023</div>
-    <img src="images/Method_and_System_for_Detecting_Bruxism_Movements.png" alt="patent">
-  </div>
-  <div class="patent-right">
-    <div class="patent-title"><a href="https://patents.google.com/patent/CN115813351A/zh" target="_blank">Method and System for Detecting Bruxism Movements</a></div>
-    <div class="patent-authors"><strong>Jianming WANG</strong>, Junshi Li, Dong Huang</div>
-    <div class="patent-info">China National Intellectual Property Administration, 2023.</div>
-    <ul class="patent-abstract">
-      <li>Method and system specifically for detecting bruxism movements.</li>
-    </ul>
-  </div>
-</div>
+<!-- 专利5 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2023</div>
+      <img src="images/Method_and_System_for_Detecting_Bruxism_Movements.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN115813351A/zh" target="_blank" style="text-decoration:none;">Method and System for Detecting Bruxism Movements</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Junshi Li, Dong Huang
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2023.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>Method and system specifically for detecting bruxism movements.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
