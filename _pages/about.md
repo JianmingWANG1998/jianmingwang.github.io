@@ -42,8 +42,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
         Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition
       </div>
       <div style="font-size: 0.95em; color: #444; margin-bottom: 10px;">
-        YIP Tin Po*, <strong>Jianming WANG*</strong>, Yutao Miao, Jiayan Zhang, Yunxu Zhao, Xiaomin Ouyang, Zhihong Li, Nevin L. Zhang <br>
-        <em>Academic Research / Conference, 2024.</em>
+        YIP Tin Po*, <strong>Jianming WANG*</strong>, Yutao Miao, Jiayan Zhang, Yunxu Zhao, Xiaomin Ouyang, Zhihong Li, Nevin L. Zhang
       </div>
       <div style="margin-bottom: 12px;">
         <a href="https://jianmingwang1998.github.io/DeltaGateNet/" target="_blank" style="text-decoration:none; font-weight:bold;">[Project]</a> 
@@ -51,7 +50,6 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
       <ul style="margin: 0; padding-left: 20px; font-size: 0.92em; line-height: 1.6; color: #222;">
         <li>Proposed <strong>DeltaGateNet</strong>, featuring a <strong>Bidirectional Delta module</strong> to capture asymmetric neural activation and suppression.</li>
         <li>Utilized <strong>Gated Temporal Convolution</strong> with residual learning to extract robust long-term temporal dependencies.</li>
-        <li>Achieved state-of-the-art <strong>96.84% accuracy</strong> on the SADT dataset, demonstrating strong generalizability.</li>
       </ul>
     </td>
   </tr>
