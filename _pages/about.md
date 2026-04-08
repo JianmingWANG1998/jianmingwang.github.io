@@ -30,13 +30,13 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 
 # 📝 Publications
 
+## 📄 Conference / Journal Papers
+
 <table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px; border-style: hidden;">
   <tr>
-    <!-- 左侧图片：比例调大至 40%，增加高度感 -->
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
       <img src="images/deltagatenet_arch.png" alt="DeltaGateNet Architecture" style="width:100%; height:auto; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     </td>
-    <!-- 右侧文字：比例调整为 60% -->
     <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
       <div style="font-size: 1.1em; font-weight: bold; line-height: 1.4; margin-bottom: 8px;">
         Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition
@@ -55,6 +55,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
+## 📜 Patents
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent 2024</div><img src='images/patent_1.png' alt="icon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,7 +140,8 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 - *2020.09 - 2021.01*: Machine Learning Engineer, WeBank.
 - *2019.07 - 2019.08*: Big Data Intern, China Unicom.
 
+<span class='anchor' id='-teaching-assistant'></span>
+
 # 👨‍🏫 Teaching Assistant
 - *2025 Fall*: **CSIT5910 & MSBD5012: Machine Learning**, *Head TA*, HKUST  
 - *2025 Spring*: **COMP 5212: Machine Learning**, *Head TA*, HKUST  
-
