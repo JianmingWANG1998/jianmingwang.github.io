@@ -110,11 +110,11 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
       <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2023</div>
-      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+      <img src="images/Determination_Method_and_Apparatus_for_Wake_promoting_Electrical_Stimulation_Protocol_in_Disorders_of_Consciousness_Rehabilitation.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     </td>
     <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
       <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
-        <a href="https://patents.google.com/patent/CN116712672A/zh" target="_blank" style="text-decoration:none;">Consciousness disturbance rehabilitation-oriented wake-promoting system</a>
+        <a href="https://patents.google.com/patent/CN116712672A/zh" target="_blank" style="text-decoration:none;">Determination Method and Apparatus for Wake‑promoting Electrical Stimulation Protocol in Disorders of Consciousness Rehabilitation</a>
       </div>
       <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
         <strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li
