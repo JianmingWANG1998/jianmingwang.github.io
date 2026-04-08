@@ -30,29 +30,28 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 
 # 📝 Publications
 
-<table style="width:100%; border:none; border-collapse:collapse; margin-top: 15px; border-style: hidden;">
+<table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px; border-style: hidden;">
   <tr>
-    <!-- 左侧图片：设置宽度为 22%，增加右侧间距 -->
-    <td style="width:22%; vertical-align:top; border:none; padding-right: 20px;">
-      <img src="images/deltagatenet_arch.png" alt="DeltaGateNet Architecture" style="width:100%; border-radius:5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <!-- 左侧图片：比例调大至 40%，增加高度感 -->
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <img src="images/deltagatenet_arch.png" alt="DeltaGateNet Architecture" style="width:100%; height:auto; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     </td>
-    <!-- 右侧文字：设置宽度为 78% -->
-    <td style="width:78%; vertical-align:top; border:none; text-align:justify;">
-      <div style="font-size: 1.05em; font-weight: bold; line-height: 1.3; margin-bottom: 5px;">
+    <!-- 右侧文字：比例调整为 60% -->
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.1em; font-weight: bold; line-height: 1.4; margin-bottom: 8px;">
         Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition
       </div>
-      <div style="font-size: 0.92em; color: #555; margin-bottom: 8px;">
+      <div style="font-size: 0.95em; color: #444; margin-bottom: 10px;">
         YIP Tin Po*, <strong>Jianming WANG*</strong>, Yutao Miao, Jiayan Zhang, Yunxu Zhao, Xiaomin Ouyang, Zhihong Li, Nevin L. Zhang <br>
-        <em>Academic Research, 2024.</em>
+        <em>Academic Research / Conference, 2024.</em>
       </div>
-      <div style="margin-bottom: 8px;">
-        <a href="https://jianmingwang1998.github.io/DeltaGateNet/" target="_blank" style="text-decoration:none; margin-left:10px;">[Project]</a>
+      <div style="margin-bottom: 12px;">
+        <a href="https://jianmingwang1998.github.io/DeltaGateNet/" target="_blank" style="text-decoration:none; font-weight:bold;">[Project]</a> 
       </div>
-      <ul style="margin: 0; padding-left: 18px; font-size: 0.9em; line-height: 1.4; color: #333;">
-        <li>Proposed <strong>DeltaGateNet</strong> to explicitly capture bidirectional temporal dynamics (activation and suppression patterns) [2, 3].</li>
-        <li>Introduced the <strong>Bidirectional Delta module</strong> to decompose first-order temporal differences into positive and negative components [2, 4].</li>
-        <li>Designed <strong>Gated Temporal Convolution</strong> to extract long-term dependencies while preserving channel-wise specificity [2, 5].</li>
-        <li>Achieved SOTA performance with <strong>96.84% accuracy</strong> on the SADT dataset [2].</li>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.92em; line-height: 1.6; color: #222;">
+        <li>Proposed <strong>DeltaGateNet</strong>, featuring a <strong>Bidirectional Delta module</strong> to capture asymmetric neural activation and suppression [1, 2].</li>
+        <li>Utilized <strong>Gated Temporal Convolution</strong> with residual learning to extract robust long-term temporal dependencies [1, 3].</li>
+        <li>Achieved state-of-the-art <strong>96.84% accuracy</strong> on the SADT dataset, demonstrating strong generalizability [1].</li>
       </ul>
     </td>
   </tr>
