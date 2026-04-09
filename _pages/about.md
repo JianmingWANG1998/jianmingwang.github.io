@@ -56,37 +56,11 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 </table>
 
 ## 📜 Patents
-
-<!-- 专利1 -->
 <table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
       <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2024</div>
-      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    </td>
-    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
-      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
-        <a href="https://patents.google.com/patent/CN118177838B/zh" target="_blank" style="text-decoration:none;">Exercise function recovery system and stimulation scheme determining method</a>
-      </div>
-      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
-        <strong>Jianming WANG</strong>, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang
-      </div>
-      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
-        China National Intellectual Property Administration, 2024.
-      </div>
-      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
-        <li>A system for exercise function recovery and method for determining stimulation schemes.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- 专利2 -->
-<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
-  <tr>
-    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
-      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2024</div>
-      <img src="images/patent_1.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+      <img src="images/Nerve_Tissue_Transmission_Bioelectric_Signal_Processing_Method_and_Equipment.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     </td>
     <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
       <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
@@ -105,7 +79,6 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
-<!-- 专利3 -->
 <table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
