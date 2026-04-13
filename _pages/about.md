@@ -177,5 +177,5 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 <span class='anchor' id='-teaching-assistant'></span>
 
 # 👨‍🏫 Teaching Assistant
-- *2025 Fall*: **CSIT5910 & MSBD5012: Machine Learning**, *Head TA*, HKUST  
-- *2025 Spring*: **COMP 5212: Machine Learning**, *Head TA*, HKUST  
+- *2025 Fall*: CSIT5910 & MSBD5012: Machine Learning, *Head TA*, HKUST  
+- *2025 Spring*: COMP 5212: Machine Learning, *Head TA*, HKUST  
