@@ -64,7 +64,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
     </td>
     <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
       <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
-        <a href="https://patents.google.com/patent/CN118177838B/en" target="_blank" style="text-decoration:none;">Nerve tissue transmission bioelectric signal processing method and equipment</a>
+        <a href="https://patents.google.com/patent/CN118177838B/en" target="_blank" style="text-decoration:none;">Nerve Tissue Transmission Bioelectric Signal Processing Method and Equipment</a>
       </div>
       <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
         <strong>Jianming WANG</strong>, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang
