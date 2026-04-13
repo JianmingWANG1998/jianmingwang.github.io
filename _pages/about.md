@@ -158,9 +158,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
 - *2023.06*: Jingjinji National Center of Technology Innovation Cyan Innovatician [[Link](https://mp.weixin.qq.com/s/yKj6PmVAXVBgj0dv0kURmg)]
 - *2020.09*: Member, HKUST Innovation Leaders Program [[Link](https://calendar.hkust.edu.hk/events/2020-pilot-scheme-innovation-leaders-program-call-application)]
 - *2019.12*: China Unicom Big Data Scholarship
-- *2019.11*: BNU-HKBU First Prize Scholarship
-- *2018.12*: BNU-HKBU Second Prize Scholarship
-- *2017.11*: BNU-HKBU Second Prize Scholarship
+- BNU-HKBU First Prize Scholarship（2019）& Second Prize Scholarship（2017，2018）
 
 <span class='anchor' id='-educations'></span>
 
