@@ -102,7 +102,6 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
-<!-- 专利4 -->
 <table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
@@ -126,7 +125,6 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
-<!-- 专利5 -->
 <table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
@@ -150,7 +148,6 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
-<!-- 专利5 -->
 <table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
   <tr>
     <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
@@ -168,7 +165,7 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
         China National Intellectual Property Administration, 2023.
       </div>
       <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
-        <li>A portable, flexible electrode for self‑administered, at‑home bruxism diagnosis during sleep.</li>
+        <li>A portable, flexible electrode for self‑administered, at‑home bruxism diagnosis.</li>
       </ul>
     </td>
   </tr>
