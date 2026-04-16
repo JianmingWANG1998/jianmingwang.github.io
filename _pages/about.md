@@ -150,6 +150,30 @@ I am currently a Ph.D. student in the CSE department of the Hong Kong University
   </tr>
 </table>
 
+<!-- 专利5 -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 30px; border-style: hidden;">
+  <tr>
+    <td style="width:40%; vertical-align:middle; border:none; padding-right: 25px;">
+      <div style="background-color:#2c3e50; color:white; display:inline-block; padding:2px 10px; border-radius:20px; font-size:0.75rem; margin-bottom: 8px;">Patent 2023</div>
+      <img src="images/An_Electromyography_Recording_Electrode_Signal_Collection_Device_and_Bruxism_Diagnosis_Apparatus.png" alt="patent" style="width:100%; height:auto; max-height:120px; object-fit:contain; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width:60%; vertical-align:middle; border:none; text-align:justify;">
+      <div style="font-size: 1.02em; font-weight: bold; margin-bottom: 5px;">
+        <a href="https://patents.google.com/patent/CN219742712U/zh" target="_blank" style="text-decoration:none;">An Electromyography Recording Electrode, Signal Collection Device, and Bruxism Diagnosis Apparatus</a>
+      </div>
+      <div style="font-size: 0.92em; color: #444; margin-bottom: 5px;">
+        <strong>Jianming WANG</strong>, Hao Kang, Junshi Li, Dong Huang
+      </div>
+      <div style="font-size: 0.88em; color: #555; font-style: italic; margin-bottom: 8px;">
+        China National Intellectual Property Administration, 2023.
+      </div>
+      <ul style="margin: 0; padding-left: 20px; font-size: 0.9em; line-height: 1.5;">
+        <li>A portable, flexible electrode for self‑administered, at‑home bruxism diagnosis during sleep.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
